@@ -1,5 +1,7 @@
 # react-native-ghostlayout
 
+<img src="https://github.com/user-attachments/assets/1fb7d0fc-4fa3-404e-8051-25be0bc686ea" width="280" />
+
 Skeleton loaders for React Native built by composing purpose-built components — one for text, one for images, one for circles, and so on. No automatic layout detection, no magic: you design the skeleton the same way you design the real UI.
 
 Works with Expo and bare React Native. No native code required.
