@@ -1,6 +1,6 @@
 {
   "name": "react-native-ghostlayout",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Composable skeleton loader components for React Native. Build loading placeholders with GhostText, GhostImage, GhostCircle and more.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
