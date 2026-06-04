@@ -1,7 +1,7 @@
 {
   "name": "react-native-ghostlayout",
   "version": "0.1.0",
-  "description": "Automatically generate skeleton loaders from your React Native layouts.",
+  "description": "Composable skeleton loader components for React Native. Build loading placeholders with GhostText, GhostImage, GhostCircle and more.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
@@ -42,8 +42,15 @@
   },
   "keywords": [
     "react-native",
+    "skeleton",
+    "skeleton-loader",
+    "loading",
+    "placeholder",
+    "shimmer",
+    "pulse",
     "ios",
-    "android"
+    "android",
+    "expo"
   ],
   "repository": {
     "type": "git",
